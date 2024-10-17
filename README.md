@@ -17,10 +17,7 @@ This project aims to determine whether survey questions can effectively predict 
 
 ## Project Structure
 
-├── diabetes_binary_classification_data.csv 
-├── diabetes_prediction.ipynb                
-├── README.md                                
-└── Diabetes classification.pdf                         
+├── diabetes_binary_classification_data.csv ├── diabetes_prediction.ipynb ├── README.md └── requirements.txt                       
 
 ## Models Used
 The following machine learning models were implemented and compared:
